@@ -1,0 +1,1 @@
+$sql = "INSERT INTO addressnyc (id,emailaddress,nickname,listname) VALUES ('$id','$emailaddress','$nickname','')";  }  // run SQL against the DB  $result = mysql_query($sql);   echo "Record updated/edited!  $rows_affected = mysql_affected_rows($db);  print "<br>Successfully updated $rows_affected row<br>";

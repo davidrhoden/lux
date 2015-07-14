@@ -1,0 +1,1 @@
+Thanks for your purchase!<br><br>E-mail <a href="mailto:shopping@davidrhoden.com">shopping@davidrhoden.com</a> if you have questions.
