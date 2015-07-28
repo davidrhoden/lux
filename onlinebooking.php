@@ -36,7 +36,7 @@
 <div class="subheader">
 </div>
 <div class="index_content">
-<iframe frameborder="0" style="border:0; width: 600px; float:left; height:600px; padding-top:3px;" src="https://booking.salonbizcloud.com/app/home.html?wbid=2EA415BF5E0142499985BABC62F1A94E"></iframe>
+<iframe frameborder="0" style="border:0; width: 684px;  height:600px; padding-top:3px;" src="https://booking.salonbizcloud.com/app/home.html?wbid=2EA415BF5E0142499985BABC62F1A94E"></iframe>
 <div class="clear"></div>
 <?php // include 'maillist.php'; ?>
 </div>
