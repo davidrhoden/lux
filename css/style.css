@@ -346,3 +346,7 @@ a:active {
 	color: #ffffff;
 }
 
+#facebook_like_button iframe {
+	 width:225px; 
+	 height:21px;
+}
