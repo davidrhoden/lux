@@ -1,5 +1,5 @@
 @media only screen and (max-width: 767px) {
-
+/** { outline: 1px dashed red;}*/
 
 	#logo {
     display: block;
@@ -35,7 +35,7 @@ ul#mainmenu {
 
 .content_left_column {
     float: none;
-    padding-right: none;
+    padding-right: 0;
     width: 100%;
 }
 
@@ -47,7 +47,16 @@ h1#giftcard {
     background: none;
     display: none;
     height: 30px;
-    text-indent: 0px;
+    text-indent: 0;
+}
+
+
+.index_content {
+    padding: 0;
+}
+
+.menu_content {
+	padding: 0;
 }
 
 .longtext {
