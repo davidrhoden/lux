@@ -5,8 +5,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 	<link href="css/style.css" rel="stylesheet" type="text/css" />
 	<link href="css/mobile.css" rel="stylesheet" type="text/css" />
-<link type="text/css" href="css/smoothness/jquery-ui-1.7.1.custom.css" rel="stylesheet" />	
-<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+	<link type="text/css" href="css/smoothness/jquery-ui-1.7.1.custom.css" rel="stylesheet" />	
+	<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="js/scripts.js"></script>
 </head>
 
 <body class="bluebody">
@@ -20,8 +22,8 @@
 </div>
 <div class="subheader">
 </div>
-<div class="index_content">
-<iframe frameborder="0" style="border:0; width: 100%; height:auto; padding-top:3px;" src="https://booking.salonbizcloud.com/app/home.html?wbid=2EA415BF5E0142499985BABC62F1A94E"></iframe>
+<div class="onlinebooking_content">
+<iframe frameborder="0" style="border:0; width: 100%; height:auto;min-height: 500px;padding-top:3px;" src="https://booking.salonbizcloud.com/app/home.html?wbid=2EA415BF5E0142499985BABC62F1A94E"></iframe>
 <div class="clear"></div>
 <?php // include 'maillist.php'; ?>
 </div>

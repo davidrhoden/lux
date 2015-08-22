@@ -42,12 +42,12 @@ h1#luxspapackages {
 	background: #ffffff;
 	margin: 0 auto;
 	padding: 4px;
-	width: 800px;
+	width: 920px;
 }
 
 .footer {
 	margin: 0 auto;
-	height: 20px;
+/*	height: 20px;*/
 	width: 800px;
 }
 
@@ -96,6 +96,10 @@ h1#luxspapackages {
 .index_content {
 	padding: 8px 0 20px 20px;
 }
+.onlinebooking_content {
+	padding: 8px 0 20px 20px;
+	min-height: 500px;
+}
 
 .content_left_column {
 	float: left;
@@ -122,43 +126,19 @@ ul#mainmenu {
 }
 
 #mainmenu li {
-	margin: 0;
+	font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	font-weight: 200;
+	float: left;
+	margin: 0 10px 0 0;
 	padding: 0;
 	list-style: none;
-	position: absolute;
-	top: 0;
+	text-transform: uppercase;
 }
 
 #mainmenu li,
 #mainmenu a {
-	height: 20px;
 	display: block;
-}
-
-#about {
-	background: url(../images/luxmenusprites.png) left top no-repeat;
-	left: 0;
-	width: 66px;
-}
-
-#servicemenu {
-	background: url(../images/luxmenusprites.png) -66px top no-repeat;
-	left: 66px;
-	width: 111px;
-}
-
-#location {
-	background: url(../images/luxmenusprites.png) -177px top no-repeat;
-	left: 177px;
-	width: 127px;
-}
-
-/*#parties {background:url(../images/luxmenusprites.png) left top no-repeat; left: 304px; width: 123px;}
-*/
-#giftcards {
-	background: url(../images/luxmenusprites.png) -427px top no-repeat;
-	left: 304px;
-	width: 93px;
 }
 
 a:link {
@@ -179,24 +159,6 @@ a:hover {
 a:active {
 	color: goldenrod;
 	text-decoration: none;
-}
-
-#about a:hover {
-	background: url(../images/luxmenusprites.png) left bottom no-repeat
-}
-
-#servicemenu a:hover {
-	background: url(../images/luxmenusprites.png) -66px -20px no-repeat
-}
-
-#location a:hover {
-	background: url(../images/luxmenusprites.png) -177px -20px no-repeat
-}
-
-/*#parties a:hover { background:url(../images/luxmenusprites.png) -304px -20px no-repeat}
-*/
-#giftcards a:hover {
-	background: url(../images/luxmenusprites.png) -427px -20px no-repeat
 }
 
 .menu_column1 {
@@ -239,12 +201,12 @@ a:active {
 	padding-left: 200px;
 }
 
-/*.prettygreen {
+.prettygreen {
 	color: #666666;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 14px;
 	line-height: 18px;
-}*/
+}
 
 .bigblack {
 	font-family: Georgia, "Times New Roman", Times, serif;
@@ -256,6 +218,10 @@ a:active {
 	padding: 8px 0 20px 130px;
 	width: 450px;
 }
+
+.longtext.reviews {
+	width: 610px;
+	}
 
 .longtext h1 {
 	font-size: .9em;
@@ -342,7 +308,19 @@ a:active {
 	color: #ffffff;
 }
 
+
+#facebook_like_button {
+	display: none;
+	width: 500px;
+	height: 25px;
+	vertical-align: middle;
+}
+
 #facebook_like_button iframe {
-	 width:225px; 
+	 width:84px; 
 	 height:21px;
+}
+
+.inline {
+	display: inline;
 }

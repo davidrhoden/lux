@@ -8,7 +8,6 @@
 		</p>
 		<p>
 		(504) 301-2953 phone<br />
-		(504) 947-5217 fax<br />
 		info@lux-salonblends.com
 		</p>
 		<p>Our hours:<br />
@@ -32,11 +31,4 @@
 	</div>
 </div>
 <div class="clear"></div>
-<script type="text/javascript">
-d3cp_bid = '107001977';// Business ID in DemandforceD3
 
-//there are two buttons go to other pages in this widget. If you have the according pages, you can set the url for them.
-//d3cp_link_addreview = 'your_page_url'; //Optional. See Instructions.
-//d3cp_link_scheduler = 'your_page_url';   //Optional. See Instructions.
-</script>
-<script src="//www.demandforced3.com/b/luxsalonblends/reviews.widget" type="text/javascript"></script>
