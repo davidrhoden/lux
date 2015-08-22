@@ -20,7 +20,7 @@
 <div id="logo"><a href="index.php"><img src="images/lux_logo_small.gif" width="172" height="150"></a></div>
 <div id="mainmenu_container"><?php include 'mainmenu.php'; ?>
 </div>
-<div class="subheader">
+<div class="subheader booking">
 </div>
 <div class="onlinebooking_content">
 <iframe frameborder="0" style="border:0; width: 100%; height:auto;min-height: 500px;padding-top:3px;" src="https://booking.salonbizcloud.com/app/home.html?wbid=2EA415BF5E0142499985BABC62F1A94E"></iframe>

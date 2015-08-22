@@ -193,6 +193,22 @@ a:active {
 	border-top: 1px solid #666666;
 	clear: both;
 	padding: 16px 0 8px 130px;
+	text-indent: -9999px;
+}
+.subheader.location {
+	background: url(../images/page_location_and_hours.gif) no-repeat left top;
+}
+.subheader.giftcards {
+	background: url(../images/page_lux_gift_cards.gif) no-repeat left top;
+}
+.subheader.reviews {
+	background: url(../images/page_reviews.gif) no-repeat left top;
+}
+.subheader.about {
+	background: url(../images/page_about_lux.gif) no-repeat left top;
+}
+.subheader.menuofservices {
+	background: url(../images/page_menu_of_services.gif) no-repeat left top;
 }
 
 .luxlandingpage {
