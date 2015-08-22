@@ -294,11 +294,17 @@ a:active {
 	list-style: none;
 	margin: 0;
 	padding: 0;
-	width: 95%;
+	width: 70%;
 }
 
 #services_menu li {
 	padding: 3px;
+}
+#services_menu li div{
+	display: inline-block;
+ 	float: right;
+	font-size: 1em;
+ 	text-align: left;
 }
 
 #services_menu li:hover {
