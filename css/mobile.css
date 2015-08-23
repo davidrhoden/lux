@@ -23,7 +23,9 @@
 }
 ul#mainmenu {
     list-style: none;
-    height: auto;
+    min-height: 48px;
+    margin: 0 0 10px 0;
+    padding: 0;
     position: relative;
 }
 
@@ -79,11 +81,55 @@ h1#giftcard {
 	 height:21px;
 	 text-align: right;
 }
-
+.luxhr {
+    width: 100%;
+}
 
 .footer {
     margin: 0 auto;
     height: auto;
     width: 100%;
+}
+
+#services_menu {
+    width: 95%;
+}
+.subheader {
+    background: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    margin-top: 8px;
+    text-indent: 0;
+    text-transform: uppercase; 
+}
+.subheader.location {
+    background: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    text-indent: 0;
+}
+.subheader.giftcards {
+    background: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    text-indent: 0;
+}
+.subheader.reviews {
+    background: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    text-indent: 0;
+}
+.subheader.about {
+    background: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    text-indent: 0;
+}
+.subheader.menuofservices {
+    background: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    text-indent: 0;
 }
 }
